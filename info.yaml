@@ -7,7 +7,6 @@ project:
 # Source files must be in ./src and you must list each source file separately
   source_files:        
     - Signed_Calculator_2B_BM.v
-    - decoder.v
   top_module:  "sSigned_Calculator_2B_BM"      # put the name of your top module here, make it unique by prepending your github username
 
 # Keep a track of the submission yaml
